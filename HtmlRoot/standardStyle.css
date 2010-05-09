@@ -1,0 +1,42 @@
+body {
+	
+	background-color: white;
+	margin: 3px;
+	padding: 3px;
+	font-family : Trebuchet MS, Arial, Helvetica, sans-serif;
+	font-size   : 11px;
+}
+table { 
+	border-collapse: collapse; 
+	border:1px black solid;
+	width:100%;
+}
+
+table th {
+	background-color:lightgray;
+	border:1px black solid;
+	text-align:left;
+	font-weight:bold;
+	
+}
+table td{
+	border:1px black solid;
+}
+table tr.highlight{
+	background-color:yellow;
+}
+
+a:visited, a:link, a:hover  {
+	font-family : Trebuchet MS, Arial, Helvetica, sans-serif;
+}
+
+a:hover {
+	color: black;
+	text-decoration: none;
+}
+
+h1, h2, h3, h4, h5, h6 {
+	font-family: Helvetica, Arial, sans-serif;
+	font-size: 20px;
+	font-weight: bold;
+}

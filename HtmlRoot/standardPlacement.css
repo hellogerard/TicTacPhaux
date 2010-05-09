@@ -1,0 +1,45 @@
+div.row {
+	clear:both;
+}
+div.spacer {
+	clear:both;
+}
+div.row span.singleElementRow {
+	float: left;
+	text-align: center;
+	font-weight:bold;
+	width:99%;
+	
+		
+}
+div.row span.label, div.buttons span.label {
+	float: left;
+	text-align: right;
+	font-weight:bold;
+	padding-top:5px;
+	width:50%;
+
+}
+
+div.row span.value,div.buttons span.value {
+	float: right;
+	width:49%;
+	text-align: left;
+	margin-left:4px;
+	
+}
+div.row span.value span {
+	float: right;
+	width:49%;
+	text-align: left;
+	margin-left:4px;
+}
+
+
+div.buttons span.label {
+	padding-top:12px;
+}
+
+div.buttons span.value {
+	padding-top:6px;
+}

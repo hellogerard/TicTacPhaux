@@ -1,0 +1,13 @@
+<?php
+include("WHCallback.php");
+include("WHComponent.php");
+include("WHConfiguration.php");
+include("WHSession.php");
+include("WHStateRegistry.php");
+include("WHRegisteredObject.php");
+include("WHNavigation.php");
+include("WHCollectionCallback.php");
+include("WHInformDialog.php");
+include("WHYesNoDialog.php");
+include("WHHtmlRoot.php");
+include("WHLiveNavigation.php");
